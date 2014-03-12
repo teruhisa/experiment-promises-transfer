@@ -1,0 +1,13 @@
+{
+  "name": "experiment-promises-transfer",
+  "version": "0.0.0",
+  "description": "testing promises transfer",
+  "main": "index.js",
+  "dependencies": {
+    "q": "~1.0.1",
+    "when": "~2.8.0",
+    "rsvp": "~3.0.6"
+  },
+  "devDependencies": {},
+  "license": "BSD"
+}
